@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:07:58 +0530] "GET /p1-brms HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:08:03 +0530] "GET /p1-brms/ HTTP/1.1" 200 7163 http-bio-8080-exec-3 5035
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:08:05 +0530] "GET /p1-brms/assets/img/bus_landing_page.png HTTP/1.1" 304 - http-bio-8080-exec-5 392
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:08:05 +0530] "GET /p1-brms/assets/img/bus_home.gif HTTP/1.1" 304 - http-bio-8080-exec-4 402
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:08:05 +0530] "GET /p1-brms/assets/img/footer-bg.png HTTP/1.1" 404 1015 http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:08:05 +0530] "GET /p1-brms/assets/img/hero-bg.png HTTP/1.1" 404 1011 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:08:07 +0530] "GET /p1-brms/assets/img/bus.png HTTP/1.1" 304 - http-bio-8080-exec-9 15
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:08:51 +0530] "GET /p1-brms/adminlogin.jsp HTTP/1.1" 200 8165 http-bio-8080-exec-2 1124
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:08:51 +0530] "GET /p1-brms/assets/img/footer-bg.png HTTP/1.1" 404 1015 http-bio-8080-exec-1 2
+0:0:0:0:0:0:0:1 - - [17/Feb/2023:09:08:51 +0530] "GET /p1-brms/assets/img/login_image.svg HTTP/1.1" 304 - http-bio-8080-exec-3 372
